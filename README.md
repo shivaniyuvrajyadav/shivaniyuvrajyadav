@@ -1,4 +1,4 @@
-![logo](https://github.com/shivaniyuvrajyadav/shivaniyuvrajyadav/blob/main/da38bfb1ceaa9d997a13feed4d481bf9.jpg)
+![log](https://github.com/shivaniyuvrajyadav/shivaniyuvrajyadav/blob/main/code_g1289411982.jpg)
 <h1 align="center">Hi 👋, I'm shivani yuvraj yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
