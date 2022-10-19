@@ -4,7 +4,7 @@
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaniyuvrajyadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniyuvrajyadav" /> </p>
 
-- 🌱 I’m currently learning **javascript , Hibernate,J2EE,MongoDB**
+- 🌱 I’m currently learning **  Hibernate,J2EE,
 
 - 📫 How to reach me **shivaniyuvarajyadav@gmail.com**
 
