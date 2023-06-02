@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivaniyuvrajyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivaniyuvrajyadav&theme=dark&hide_border=false)<br/>
-[![shivaniyuvrajyadav's GitHub | Stats](https://stats.quine.sh/shivaniyuvrajyadav/github?theme=light)](https://quine.sh)<br/>
+<!-- [![shivaniyuvrajyadav's GitHub | Stats](https://stats.quine.sh/shivaniyuvrajyadav/github?theme=light)](https://quine.sh)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaniyuvrajyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
