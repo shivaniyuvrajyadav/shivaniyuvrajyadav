@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Source Contribution. <br>👯 I’m looking to collaborate on Web Development Projects <br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Frontend, Database <br>
+🔭 I’m currently Contributor at @GSSOC. <br>👯 I’m looking to collaborate on Web Development Projects <br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Frontend, Database <br>
 
 
 ## 🌐 Socials:
